@@ -1,15 +1,16 @@
-# music-server
+
 网易云音乐的接口API
 
-# 下载项目到本地
-git clone git@github.com:sqaiyan/netmusic-node.git
+### 下载项目到本地
+git clone https://github.com/liutaochange/music-server.git
 
-cd netmusic-node 
+cd music-server
 
-# 安装依赖
+### 安装依赖
+
 npm install 
 
-# 启动项目 
+### 启动项目 
+
 node app.js
 
-```
